@@ -41,8 +41,8 @@ to see other people use this code and ask questions, too. Send me photos!
 To assemble the hardware, I recommend an Arduino Ethernet, which is
 essentially an Arduino + Ethernet Shield combined, and my DaisyShift kit
 available at the website above. You can make your own shift register displays
-by following the ShiftOutExample images taken from the Shift Out Arduino
-tutorial at http://arduino.cc/en/Tutorial/ShiftOut. The only difference
+by following the ShiftOutExample images taken from the [Shift Out Arduino
+tutorial](http://arduino.cc/en/Tutorial/ShiftOut). The only difference
 between their example and this code is that we are using pins 5,6, and 7
 instead of 8, 11, and 12.
 
